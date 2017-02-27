@@ -1,14 +1,14 @@
 {
-  "name": "event-manager",
+  "name": "tournament-schedule",
   "version": "1.1.0",
-  "description": "A event plugin for GetSimple",
+  "description": "A tournament schedule plugin for GetSimple",
   "keywords": [
-    "Event Manager"
+    "tournament schedule"
   ],
   "author": {
     "name": "Dieter Holzmann",
     "email": "",
-    "url": "dieterholzmann.de"
+    "url": "http://dieterholzmann.de/"
   },
   "repository": {
     "type": "git"
